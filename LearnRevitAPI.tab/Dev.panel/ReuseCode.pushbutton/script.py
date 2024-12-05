@@ -35,5 +35,5 @@ sel_el = get_selected_elements()
 sel_walls = get_selected_elements([Wall, Floor])
 
 
-#print(sel_el)
-#print(sel_walls)s
+print(sel_el$)
+#print(sel_walls)
